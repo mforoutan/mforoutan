@@ -1,6 +1,6 @@
 - 🎓 Build and Deliver **Educational** solutions
 - 💻 **He Who Developes** ...
 - 🌱 Mastering **Django**, **DRF**.
-- 📝 Love in **Solving Problems**.
+- 📝 In love with **Solving Problems**.
 - 🗻 **Perfectionist** and **Jack of all trades** ...
 - 💬 [**Email me**](mailto:foroutan.dev@gmail.com).
