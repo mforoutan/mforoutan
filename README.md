@@ -3,4 +3,4 @@
 - 🌱 Mastering **Django**, **DRF**.
 - 📝 Love in **Solving Problems**.
 - 🗻 **Perfectionist** and **Jack of all trades** ...
-- 💬 Message me on [**email me**](mailto:foroutan.dev@gmail.com).
+- 💬 [**Email me**](mailto:foroutan.dev@gmail.com).
